@@ -12,7 +12,4 @@ Python code to secure sha512 using a salt and pepper.
     Feel free to use any aspect of my code and implement it into your own, but I suggest 
     randomly generating a new pepper.
     
- # Next steps:
-    In order to make this more secure someone could change the code so that the salt values are not stored
-    in the same CSV file as the password hashes so if an attacker gets access to the
-    password hash CSV they still do not have any of the salts or the pepper.
+
